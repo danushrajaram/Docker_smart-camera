@@ -1,6 +1,6 @@
 FROM python:3.10.11-slim
 
-COPY . /app
+COPY . /app 
 
 WORKDIR /app
 
